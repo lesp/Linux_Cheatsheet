@@ -1,0 +1,14 @@
+{
+  "version": "0.1",
+  "name": "Linux Cheat Sheet",
+  "description": "Learn more about Linux",
+  "launch_path": "index.html",
+  "icons": {
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Les Pounder",
+    "url": "http://bigl.es"
+  },
+  "default_locale": "en"
+}
